@@ -46,22 +46,8 @@ export const itinerary = [
                 }
             },
             {
-                name: "iFly Indoor Skydiving",
-                time_slot: "Afternoon (e.g., 2:30 PM - 4:30 PM)",
-                icon: "wind",
-                description: "Experience the thrill of skydiving without jumping out of a plane! iFly offers an exhilarating indoor skydiving adventure.",
-                details: {
-                    location: "3084 Surfers Paradise Blvd, Surfers Paradise, QLD 4217",
-                    hours: "Typical Hours: Mon-Fri 9:30 AM - 6:30 PM; Sat-Sun 9:00 AM - 6:30 PM.",
-                    hours_note: "Verify specific session times for June 2025 and book in advance.",
-                    website: "https://www.iflyworld.com.au/locations/ifly-gold-coast/",
-                    price: "From approx. $79.95 per person for first-timer packages.",
-                    duration: "Approx. 2 hours (including briefing and flights)."
-                }
-            },
-            {
                 name: "SkyPoint Observation Deck",
-                time_slot: "Late Afternoon (e.g., 5:00 PM - 6:30 PM)",
+                time_slot: "Late Afternoon (e.g., 2:30 PM - 4:30 PM)",
                 icon: "tower-control",
                 description: "Ascend the Q1 Building for 360-degree views of the Gold Coast from Australia's only beachside observation deck as the sun begins to set.",
                 details: {
@@ -74,7 +60,21 @@ export const itinerary = [
                 }
             },
             {
-                name: "Explore Cavill Avenue & Dinner",
+                name: "Sea World Cruises Buffet Dinner Sightseeing Cruise",
+                time_slot: "Evening (e.g., 6:30 PM - 8:30 PM)",
+                icon: "wind",
+                description: "Enjoy a relaxing 2.5-hour cruise along the Gold Coast waterways aboard the 'Spirit of Elston', featuring stunning views of the Surfers Paradise skyline at night. Includes a buffet dinner with local produce and live entertainment.",
+                details: {
+                    location: "Sea World Cruises Terminal, Seaworld Dr, Main Beach",
+                    hours: "Approximately 2 hours 30 minutes",
+                    hours_note: "Verify specific session times for June 2025 and book in advance.",
+                    website: "",
+                    price: "From ~$129 AUD per person (based on direct operator pricing). Note: Aggregator sites may show prices from ~$85 USD due to promotional rates or currency conversion; verify current pricing when booking.",
+                    duration: "Approx. 2 hours (including briefing and flights)."
+                }
+            },
+            {
+                name: "OPTIONAL Explore Cavill Avenue & Dinner",
                 time_slot: "Evening",
                 icon: "shopping-bag",
                 description: "Stroll down vibrant Cavill Avenue, the heart of Surfers Paradise, with its shops, eateries, and street performers. Choose a restaurant for dinner.",
@@ -209,20 +209,21 @@ export const itinerary = [
     {
         day: 4,
         date: "June 12th, Thursday",
-        title: "Illusions, Coastal Charms & Cabaret",
+        title: "Sunrise & Hinterland Delights",
         activities: [
              {
-                name: "Infinity Attraction",
+                name: "Gold Coast Hot Air Balloon with Breakfast and Return Transfer",
                 time_slot: "Morning",
                 icon: "infinity",
-                description: "A futuristic, mind-bending maze of special effects, sound fields, and illusions.",
+                description: "Experience a magical sunrise hot air balloon flight over the Gold Coast Hinterland with professional pilots. After landing, enjoy a gourmet hot breakfast with sparkling wine at O'Reilly's Grand Homestead & Vineyard, meet alpacas, and have access to wine tasting. Includes return transfers and a digital photo package",
                 details: {
-                    location: "Chevron Renaissance Centre, Cnr Surfers Paradise Blvd & Elkhorn Ave, Surfers Paradise",
+                    location: "The entire experience, including transfers, flight, breakfast, and return, takes approximately 6-7 hours (from early morning pickup to return)",
                     hours: "Typical Hours: Daily 10:00 AM - 10:00 PM.",
                     hours_note: "Confirm hours for June 2025.",
-                    website: "https://www.infinitygc.com.au/",
-                    price: "Adults approx. $30.90.",
-                    duration: "Approx. 30-40 minutes."
+                    website: "https://www.overtheplanet.com/en-US/unique-experiences-with-buy-1-get-1-freegold-coast-hot-air-balloon-with-breakfast-and-return-transfer.a207864?utm_source=gttd&utm_medium=organic&s=search&f=cat&option_id=493715&currency=KWD",
+                    Operator: "Typically facilitated by 'Over The Planet' or similar, operating with local balloon companies",
+                    price: "Adults approx. $324 per person.",
+                    duration: "Very early morning hotel pickup (between 3:25 AM and 4:20 AM, depending on the season/sunrise). Flight around 7:00 AM. Breakfast around 8:00 AM. Return transfer completes between 9:45 AM and 10:30 AM."
                 }
             },
             {
