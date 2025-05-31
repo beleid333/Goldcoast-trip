@@ -277,47 +277,16 @@ export const itinerary = [
     {
         day: 5,
         date: "June 13th, Friday",
-        title: "Sky High Climb, Game Night & Departure",
+        title: "Shopping & Departure",
         activities: [
             {
-                name: "SkyPoint Climb",
-                time_slot: "Morning (e.g., 9:30 AM - 11:00 AM)",
-                icon: "navigation",
-                description: "Embark on an external climb of the Q1 Building. A guided 90-minute adventure with unparalleled 360-degree views.",
-                details: {
-                    location: "Q1 Building, Surfers Paradise Blvd, Surfers Paradise",
-                    hours: "Various climb times daily.",
-                    hours_note: "Confirm specific climb times for June 2025 and book well in advance.",
-                    website: "https://www.skypoint.com.au/climb/",
-                    price: "Day Climbs from $92 per person.",
-                    duration: "Approx. 90 minutes (including briefing)."
-                }
-            },
-            {
-                name: "Last Minute Souvenirs / Pack / Lunch",
-                time_slot: "Afternoon (Post-Climb until ~5:00 PM)",
+                name: "Breakfast, Last Minute Souvenirs / Pack / Lunch",
+                time_slot: "Mornign until derparture)",
                 icon: "luggage",
-                description: "Grab lunch, do some last-minute souvenir shopping, pack, and check out of accommodation if not already done. Plan this time efficiently.",
+                description: " Breakfast at Paddock Bakery "https://www.paddockbakery.com/". 
+                Grab lunch, do some last-minute souvenir shopping "https://www.pacificfair.com.au/", pack, and check out of accommodation if not already done. Plan this time efficiently.",
                 details: {
                     notes: "<strong>Time Management:</strong> This day has multiple transitions. Plan your time carefully to enjoy all activities and manage travel to Robina and the airport without stress."
-                }
-            },
-            {
-                name: "Gold Coast Titans NRL Match vs Sea Eagles",
-                time_slot: "Evening (Travel from ~6:00 PM, 8:00 PM Kick-off)",
-                icon: "goal",
-                description: "Experience live NRL! Watch the Gold Coast Titans at Cbus Super Stadium.",
-                details: {
-                    location: "Cbus Super Stadium, Centreline Place, Robina, QLD 4226",
-                    hours: "Game starts 8:00 PM. Allow travel time.",
-                    hours_note: "Confirm game time and gate opening times closer to June 2025.",
-                    website: "Tickets via Ticketmaster or nrl.com/tickets.",
-                    price: "Varies. Check ticketing sites.",
-                    duration: "Approx. 2-3 hours for game experience.",
-                    notes: [
-                        "<strong>Transport to Cbus Super Stadium:</strong> Parking at/near the stadium is very limited on game days. Free public transport (bus/train) is typically available with a game ticket. Check TransLink and Gold Coast Titans official websites for specific public transport plans for June 2025 game days.",
-                        "<strong>Luggage:</strong> If you've checked out, ensure luggage is securely stored in your rental car."
-                        ]
                 }
             },
             {
