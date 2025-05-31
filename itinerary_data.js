@@ -283,7 +283,7 @@ export const itinerary = [
                 name: "Breakfast, Last Minute Souvenirs / Pack / Lunch",
                 time_slot: "Mornign until derparture)",
                 icon: "luggage",
-                description: " Breakfast at Paddock Bakery "https://www.paddockbakery.com/". Grab lunch, do some last-minute souvenir shopping "https://www.pacificfair.com.au/", pack, and check out of accommodation if not already done. Plan this time efficiently.",
+                description: " Breakfast at Paddock Bakery https://www.paddockbakery.com/. Grab lunch, do some last-minute souvenir shopping https://www.pacificfair.com.au/, pack, and check out of accommodation if not already done. Plan this time efficiently.",
                 details: {
                     notes: "<strong>Time Management:</strong> This day has multiple transitions. Plan your time carefully to enjoy all activities and manage travel to Robina and the airport without stress."
                 }
